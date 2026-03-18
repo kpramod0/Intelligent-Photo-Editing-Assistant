@@ -733,7 +733,7 @@ app.py (Streamlit UI — 6 tabs)
 ### 📚 Tech Stack
 
 `Python 3.11` · `Streamlit` · `OpenCV` · `NumPy` · `Pillow` ·
-`Matplotlib` · `scikit-image` · `pandas` · `scipy`
+`Matplotlib` · `pandas`
 
 ---
 

@@ -13,7 +13,6 @@ from typing import Optional
 
 import cv2
 import numpy as np
-from scipy.signal import convolve2d
 
 from src import config as cfg
 from src.utils import bgr_to_gray, bgr_to_hsv, bgr_to_lab, BGRImage, GrayImage
